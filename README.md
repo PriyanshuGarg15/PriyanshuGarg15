@@ -57,18 +57,18 @@ Scalable WebSocket architecture supporting thousands of concurrent connections w
 
 ---
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=PriyanshuGarg15.PriyanshuGarg15)
 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuGarg15&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuGarg15&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuGarg15&theme=dark)](https://git.io/streak-stats)
 
 ## 📌 Pinned Repositories
 
