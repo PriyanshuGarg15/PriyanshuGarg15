@@ -67,6 +67,4 @@ Scalable WebSocket architecture supporting thousands of concurrent connections w
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuGarg15&theme=dark)](https://git.io/streak-stats)
 
-## 📌 Pinned Repositories
-
-Be sure to pin your best 6 repositories on your GitHub profile page to showcase your best work!
+## 📌 Pinned Repositories=
