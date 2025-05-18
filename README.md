@@ -8,9 +8,9 @@ I build scalable backend systems that handle millions of requests daily. Passion
 
 ```javascript
 const skills = {
-    languages: ['JavaScript/TypeScript', 'Node.js', 'Java', 'C++'],
-    backend: ['Express', 'RESTful APIs', 'Microservices', 'Event-Driven Architecture'],
-    databases: ['MySQL', 'MongoDB', 'Redis'],
+    languages: ['JavaScript/TypeScript', 'Node.js', 'Python', 'React', 'Java', 'C++'],
+    backend : ['Microservices','API Gateways', 'Queues', 'Express', 'Caching (Redis)','Restful APIs' 'CI/CD', 'Event-Driven Architecture'],
+    databases: ['MySQL', 'MongoDB', 'Redis', 'PostgreSQL', 'Data Modeling', 'Query Optimization'],
     cloud: ['AWS ECS', 'EC2', 'CloudWatch', 'Secret Manager', 'Docker'],
     devOps: ['CI/CD Pipelines', 'Infrastructure as Code', 'Container Orchestration'],
     architectures: ['Distributed Systems', 'High-Performance Computing', 'Scalable Backend Design'],
@@ -56,9 +56,6 @@ Scalable WebSocket architecture supporting thousands of concurrent connections w
 - Email: priyanshu.159803@gmail.com
 
 ---
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=PriyanshuGarg15.PriyanshuGarg15)
-
 
 ## 📊 GitHub Stats
 
