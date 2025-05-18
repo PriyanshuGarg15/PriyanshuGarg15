@@ -8,7 +8,7 @@ I build scalable backend systems that handle millions of requests daily. Passion
 
 ```javascript
 const skills = {
-    languages: ['JavaScript/TypeScript', 'Node.js', 'Python', 'React', 'Java', 'C++'],
+    languages: ['JavaScript/TypeScript', 'Node.js', 'Python', 'React', 'Java']
     backend : ['Microservices','API Gateways', 'Queues', 'Express', 'Caching (Redis)','Restful APIs' 'CI/CD', 'Event-Driven Architecture'],
     databases: ['MySQL', 'MongoDB', 'Redis', 'PostgreSQL', 'Data Modeling', 'Query Optimization'],
     cloud: ['AWS ECS', 'EC2', 'CloudWatch', 'Secret Manager', 'Docker'],
