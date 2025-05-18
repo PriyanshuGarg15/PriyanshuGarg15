@@ -63,8 +63,8 @@ Scalable WebSocket architecture supporting thousands of concurrent connections w
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuGarg15&layout=compact&theme=radical)
 
-## 🔥 Streak Stats
+<!-- ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuGarg15&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuGarg15&theme=dark)](https://git.io/streak-stats) -->
 
 ## 📌 Pinned Repositories
