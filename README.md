@@ -1,70 +1,75 @@
 # Hi, I'm Priyanshu Garg 👋
 
-> Senior Software Engineer | SDE-3 | System Architect | Technical Leader
 
-I build scalable backend systems that handle millions of requests daily. Passionate about system design, performance optimization, and technical leadership.
+**Tech Lead · Backend & Platform Engineering · Distributed Systems · Fintech**
 
-## 🛠 Technical Expertise
-
-```javascript
-const skills = {
-    languages: ['JavaScript/TypeScript', 'Node.js', 'Python', 'React', 'Java']
-    backend : ['Microservices','API Gateways', 'Queues', 'Express', 'Caching (Redis)','Restful APIs' 'CI/CD', 'Event-Driven Architecture'],
-    databases: ['MySQL', 'MongoDB', 'Redis', 'PostgreSQL', 'Data Modeling', 'Query Optimization'],
-    cloud: ['AWS ECS', 'EC2', 'CloudWatch', 'Secret Manager', 'Docker'],
-    devOps: ['CI/CD Pipelines', 'Infrastructure as Code', 'Container Orchestration'],
-    architectures: ['Distributed Systems', 'High-Performance Computing', 'Scalable Backend Design'],
-    tools: ['Git', 'JIRA', 'Agile/Scrum']
-};
-```
-
-## 🚀 What I Do
-
-- Design and implement high-throughput backend systems handling 500K+ requests/minute
-- Lead engineering teams through complex technical challenges
-- Architect secure, scalable solutions for mission-critical applications
-- Optimize system performance for handling unpredictable traffic surges
-- Build reliable financial technology platforms with stringent security requirements
-
-## 💼 Professional Experience
-
-Currently working as **SDE3 at RUPYY, CARDEKHO** where I've led development of:
-
-- End-to-end NBFC Platform handling loan application processing
-- Centralized encryption service for PII data processing 3M+ daily requests
-- Financial middleware integrating multiple bank APIs
-
-Previously: **Software Engineer at Newgen Software Technologies** - Implemented financial workflows for global clients including E*Trade-AXOS and MassMutual Insurance.
-
-## 🔭 Featured Projects
-
-### Cipher Service
-Centralized encryption platform for securing PII data, handling 500K concurrent requests during peak loads.
-**Tech:** Node.js, AWS ECS, Docker, Auto-scaling, Redis
-
-### Microservice-Based E-commerce Platform
-Complete microservices ecosystem for user authentication, product catalog, order processing, and payments.
-**Tech:** Node.js, Express, MongoDB, RESTful APIs, AWS, Docker
-
-### Real-Time Chat Application
-Scalable WebSocket architecture supporting thousands of concurrent connections with location sharing.
-**Tech:** Node.js, Socket.io, JWT, MongoDB
-
-## 📫 Connect With Me
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/priyanshu15)
-- Email: priyanshu.159803@gmail.com
+Building and operating backend systems at scale — currently leading platform engineering at Rupyy (Cardekho Group).
+7 years across financial services, payments, and lending infrastructure.
 
 ---
 
-## 📊 GitHub Stats
+## What I work on
 
-<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuGarg15&show_icons=true&theme=radical) -->
+```javascript
+const stack = {
+  languages:     ['Node.js', 'TypeScript', 'JavaScript (ES6+)', 'Python'],
+  backend:       ['Microservices', 'Event-Driven Architecture', 'REST APIs',
+                  'Express.js', 'State Machine Design', 'Message Queues (SQS)'],
+  databases:     ['PostgreSQL', 'MySQL', 'MongoDB', 'DynamoDB', 'Redis'],
+  cloud:         ['AWS ECS', 'SQS', 'Lambda', 'API Gateway',
+                  'Secrets Manager', 'CloudWatch', 'X-Ray'],
+  devops:        ['Docker', 'CI/CD', 'Blue-Green Deployments'],
+  observability: ['Distributed Tracing', 'SLO/SLI', 'Structured Logging',
+                  'Incident Response', 'Runbook Authoring'],
+  security:      ['AES-256 Encryption', 'Tokenization', 'PII Compliance',
+                  'JWT', 'OAuth 2.0', 'AWS Secrets Manager'],
+};
+```
+
+---
+
+## Current work — Rupyy, Cardekho Group
+
+**Tech Lead** · March 2022 – Present
+
+A few things I've built and owned here:
+
+**Lending Platform (LMS Pro)**
+End-to-end loan lifecycle management — 15-stage event-driven state machine covering intake through disbursal. Processes 50K+ cases/month with $1.2M+ USD in monthly disbursements across 1,000+ dealer and DSA partners.
+
+**Unified Origination Platform**
+Multi-partner origination layer serving 5M+ daily requests at 15K req/min peak across marketplace and NBFC flows. Async processing pipeline (KYC → mandate → disbursal) that cut end-to-end loan processing from 5+ hours to under 15 minutes.
+
+**FinOps Engine**
+Greenfield revenue and payout management platform — built with a team of interns, delivered in 3 months, go-live signed off by CFO and CEO. Replaced an 8–10 day manual Finance Ops cycle with a fully autonomous pipeline across 50K+ loans/month and INR 100Cr+ in monthly revenue flows across 50+ banks.
+
+**Cipher Service**
+Centralized tokenization service handling 5M+ daily encrypt/decrypt operations for PII across 20+ microservices. AES-256 with automated key lifecycle management via AWS Secrets Manager. Migration from EC2 to ECS cut p95 latency from 800ms to 280ms and reduced infra spend by $30K/year.
+
+**Fintech Adapter Layer**
+Standardized integration layer connecting 20+ banking and fintech vendors (eKYC, eSign, eNACH, bank-statement aggregation) — 200K+ API calls/day at 99.5% success rate.
+
+---
+
+## Previously — Newgen Software
+
+**Software Engineer** · March 2019 – February 2022
+
+Workflow automation systems for large-scale loan processing. ETL migration of 5M+ records for a major banking client — 99.7% accuracy, zero production incidents. Oracle DB performance improvements of 70% through index redesign and query refactoring on critical paths.
+
+---
+
+## Writing & talks
+
+- Presented *"Building Fault-Tolerant Microservices"* at Rupyy Tech Summit 2024
+- Weekly internal knowledge-sharing on system design and reliability patterns
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/priyanshu15) · priyanshu.159803@gmail.com
+
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuGarg15&layout=compact&theme=radical)
-
-<!-- ## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuGarg15&theme=dark)](https://git.io/streak-stats) -->
-
-## 📌 Pinned Repositories
